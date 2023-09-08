@@ -18,18 +18,18 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
-### GitHub Stats and Most Used Languages
+### GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%">
+</div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl" alt="Top Languages" width="48%">
+</div>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushannand&theme=dark" alt="Top Languages" width="48%">
 </div>
 
 ### GitHub Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-### More Cards (Add as needed)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushannand&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayushannand&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
