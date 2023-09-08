@@ -20,8 +20,8 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ### GitHub Stats
 
-<img>
-![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD0000)</img>
+
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD0000)
 
 
 ### Top Languages
