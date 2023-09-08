@@ -18,8 +18,8 @@
 ![NLP](https://img.shields.io/badge/NLP-%23F7931E.svg?style=for-the-badge&logo=NLP&logoColor=white)&nbsp;
 ![Vicuna](https://img.shields.io/badge/Vicuna-005571?style=for-the-badge&logo=Vicuna)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+<--![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)-->
 
 #### Database
 
