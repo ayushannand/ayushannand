@@ -21,7 +21,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ### Leetcode Stats
 
 <div>
-  <img src="https://leetcode.card.workers.dev/ayushannand?theme=dark&font=source_code_pro" alt="GitHub Stats" width="80%" margin="50px">
+  <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
 </div>
 
 ### GitHub Stats
