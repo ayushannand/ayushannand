@@ -31,5 +31,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ### GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=4" alt="Top Languages" width="48%">
+</div>
 
