@@ -61,7 +61,7 @@
 
 ### GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=nightowl" alt="GitHub Stats" width="60%" margin="50px">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD2727&Border=DD2727" alt="GitHub Stats" width="60%" margin="50px">
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl" margin="50px" alt="Top Languages" width="60%">
