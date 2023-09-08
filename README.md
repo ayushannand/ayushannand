@@ -18,6 +18,12 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
+### Leetcode Stats
+
+<div>
+  <img src="https://leetcode.card.workers.dev/ayushannand?theme=dark&font=source_code_pro&extension=activity" alt="GitHub Stats" width="48%" margin="50px">
+</div>
+
 ### GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%" margin="50px">
