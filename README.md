@@ -1,4 +1,3 @@
-
 # Hi there, I'm Ayush Annand 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ayushannand/)](https://www.linkedin.com/in/ayushannand/)
@@ -20,14 +19,20 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ### GitHub Stats
 
-
 ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD0000)
-
-
-### Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl)
 
 ### GitHub Trophies
-  
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### More Cards (Add as needed)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushannand&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayushannand&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Followers](https://img.shields.io/github/followers/ayushannand?style=social)](https://github.com/ayushannand)
+
