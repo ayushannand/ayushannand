@@ -1,7 +1,5 @@
-[![](https://raw.githubusercontent.com/ayushannand/ayushannand/master/profile.gif)](https://www.ayushannand.com/)
+# Hi there, I'm Ayush Annand 👋
 
-
-[![Website](https://img.shields.io/badge/-Portfolio-0c5ec6?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.ayushannand.com/)](https://www.ayushannand.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ayushannand/)](https://www.linkedin.com/in/ayushannand/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ayushannand/)](https://twitter.com/ayushannand/)
 
@@ -29,4 +27,8 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ### GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+<summary>GitHub Trophies (Click to Expand)</summary>
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
