@@ -17,4 +17,5 @@
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=radical" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=radical&card_width=700px&include_all_commits=true&line_height=40" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand" />
