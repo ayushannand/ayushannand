@@ -4,12 +4,13 @@
 
 #### Languages:
 
-![C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=Falsk&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=HTML&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-ED8B00?style=for-the-badge&logo=CSS&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-ff5733?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-254bdd?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
 
 #### ML/DL
 
