@@ -21,18 +21,18 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ### Leetcode Stats
 
 <div>
-  <img src="https://leetcode.card.workers.dev/ayushannand?theme=dark&font=source_code_pro&extension=activity" alt="GitHub Stats" width="48%" margin="50px">
+  <img src="https://leetcode.card.workers.dev/ayushannand?theme=dark&font=source_code_pro" alt="GitHub Stats" width="80%" margin="50px">
 </div>
 
 ### GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%" margin="50px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=nightowl" alt="GitHub Stats" width="60%" margin="50px">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl" margin="50px" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl" margin="50px" alt="Top Languages" width="60%">
 </div>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushannand&theme=dark" margin="50px" alt="Top Languages" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushannand&theme=dark" margin="50px" alt="Top Languages" width="60%">
 </div>
 
 ### GitHub Trophies
