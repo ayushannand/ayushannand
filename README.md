@@ -17,5 +17,5 @@
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=radical&card_width=500px&include_all_commits=true" />
+<img height="137px" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Border=DD2727" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&card_width=500px" />
