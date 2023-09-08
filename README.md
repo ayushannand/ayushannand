@@ -5,27 +5,32 @@
 
 I'm a passionate software developer with a love for coding and problem-solving. Here are some of the technologies and languages I work with:
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    <h3>Languages</h3>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <h3>Technologies</h3>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js">
+  </div>
+</div>
 
-### Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-
-### GitHub Stats
+<h3>GitHub Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushannand&show_icons=true&theme=nightowl)
 
-### Top Languages
+<h3>Top Languages</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl)
 
-### GitHub Trophies
+<h3>GitHub Trophies</h3>
 
 <details>
 <summary>GitHub Trophies (Click to Expand)</summary>
