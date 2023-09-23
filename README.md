@@ -42,7 +42,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-E46GB?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-8A2BE2?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
-![Atlas](https://img.shields.io/badge/Atlas-8A2BE2?style=for-the-badge&logo=atlas&logoColor=white)&nbsp;
+![Atlas](https://img.shields.io/badge/Atlas-8A2BGS?style=for-the-badge&logo=atlas&logoColor=white)&nbsp;
 
 
 ## Connect with me:
