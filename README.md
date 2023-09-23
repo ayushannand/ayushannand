@@ -1,5 +1,10 @@
 # Hi there, I'm Ayush Annand 👋
 
+## Profile Overview
+<div>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD2727&Border=DD2727" alt="GitHub Stats" width="60%" margin="50px">
+</div>
+
 ## Skills:
 
 #### Languages:
@@ -56,16 +61,13 @@
 
 
 
-### Leetcode Stats
+## Leetcode Stats
 
 <div>
   <img src="https://leetcard.jacoblin.cool/ayushannand?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
 </div>
 
-### GitHub Stats
-<div>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ayushannand?cardType=level-alternate&theme=nightowl&preferLogin=true&Ring=DD2727&Border=DD2727" alt="GitHub Stats" width="60%" margin="50px">
-</div>
+## GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushannand&layout=compact&theme=nightowl" margin="50px" alt="Top Languages" width="60%">
 </div>
@@ -73,7 +75,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushannand&theme=dark" margin="50px" alt="Top Languages" width="60%">
 </div>
 
-### GitHub Trophies
+## GitHub Trophies
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=ayushannand&theme=onedark&column=4" margin="50px" alt="Top Languages" width="48%">
