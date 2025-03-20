@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Annand 👋
+# Hi there, I'm Ayush Anand 👋
 
 ## Profile Overview
 <div>
